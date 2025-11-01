@@ -28,10 +28,10 @@ Collaboration & Documentation	GitHub, MS Word
 
 👥 Roles & Responsibilities
 Role	Member Name	Responsibility
-Team Leader / Data Analyst	Ahmed Mamdouh	Project coordination, dashboard design, final insights.
-Data Analyst	Omar Gaber	Data cleaning, transformation (Power Query), and EDA.
-Data Analyst	Abdelrahman Mostafa	Data modeling (Star Schema) and DAX calculations.
-Data Analyst	Sameh Abo El-enin	Data visualization and KPI integration in Power BI.
+Team Leader / Data Analyst	Ahmed Mamdouh	          Project coordination, dashboard design, final insights.
+Data Analyst	Omar Gaber	Data cleaning             transformation (Power Query), and EDA.
+Data Analyst	Abdelrahman Mostafa                 	Data modeling (Star Schema) and DAX calculations.
+Data Analyst	Sameh Abo El-enin	                  Data visualization and KPI integration in Power BI.
 
 🔍 Methodology
 1.	Data Understanding & Cleaning: Loaded the .csv file into Power Query. Checked data types (especially for Date), handled any missing values, and ensured consistency.
